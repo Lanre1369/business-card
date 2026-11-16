@@ -1,0 +1,33 @@
+body{
+    margin: 20px;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-content: center;
+    
+
+}
+.BizPic{
+    width: 150px;
+}
+.card{
+    width: 450px;
+    margin: 0 auto 0 auto;
+    border: 1px dotted blue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 4px solid #d8cefe;
+    background-color: #ddebf8;
+    color: #2b2839;
+    font-size: large;
+}
+.card-text{
+    margin: auto 0 auto 0;
+}
+.italic{
+    font-style: italic;
+}
+.dotborder{
+    border: 1px dotted blue;
+}
